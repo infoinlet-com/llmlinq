@@ -1,21 +1,76 @@
-MIT License
+LLMLinq End-User License Agreement
 
-Copyright (c) 2026 odyssey
+Copyright (c) 2026 LLMLinq. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This End-User License Agreement ("Agreement") is a legal agreement between you
+("You") and LLMLinq ("Licensor") for the LLMLinq software, including its
+executables, binaries, bundled assets, and accompanying documentation
+(collectively, the "Software"). By downloading, installing, or using the
+Software, You agree to be bound by this Agreement. If You do not agree, do not
+download, install, or use the Software.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. LICENSE GRANT
+   Subject to Your compliance with this Agreement, the Licensor grants You a
+   personal, non-exclusive, non-transferable, non-sublicensable, revocable
+   license to download, install, and run unmodified copies of the Software on
+   devices You own or control, for Your own personal or internal business use.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. RESTRICTIONS
+   You may NOT, in whole or in part:
+   (a) modify, adapt, translate, or create derivative works of the Software;
+   (b) reverse engineer, decompile, disassemble, or otherwise attempt to
+       derive the source code or underlying ideas of the Software, except to
+       the limited extent such restriction is prohibited by applicable law;
+   (c) sell, resell, rent, lease, lend, sublicense, distribute, publish, host
+       as a service, or otherwise make the Software available to any third
+       party;
+   (d) remove, alter, or obscure any copyright, trademark, or other proprietary
+       notices in or on the Software; or
+   (e) use the Software to develop a competing product or in any way not
+       expressly permitted by this Agreement.
+
+3. OWNERSHIP
+   The Software is licensed, not sold. The Licensor and its suppliers retain
+   all right, title, and interest in and to the Software, including all
+   intellectual property rights. This Agreement grants You no rights other than
+   the limited license expressly set out above. This is not open-source
+   software, and no open-source license is granted.
+
+4. THIRD-PARTY COMPONENTS
+   The Software may include third-party open-source components that are
+   licensed under their own terms. Those components remain governed by their
+   respective licenses, which prevail over this Agreement solely with respect
+   to those components.
+
+5. UPDATES
+   Any updates, upgrades, or new versions the Licensor makes available are part
+   of the Software and governed by this Agreement unless accompanied by
+   separate terms.
+
+6. TERMINATION
+   This Agreement is effective until terminated. It terminates automatically
+   and immediately if You breach any term. Upon termination, You must cease all
+   use of the Software and destroy all copies in Your possession. Sections 2
+   through 8 survive termination.
+
+7. DISCLAIMER OF WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+   KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND
+   NON-INFRINGEMENT. YOU USE THE SOFTWARE AT YOUR OWN RISK.
+
+8. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE LICENSOR BE
+   LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE
+   DAMAGES, OR ANY LOSS OF DATA, PROFITS, OR GOODWILL, ARISING OUT OF OR
+   RELATED TO THIS AGREEMENT OR THE SOFTWARE, EVEN IF ADVISED OF THE
+   POSSIBILITY OF SUCH DAMAGES. THE LICENSOR'S TOTAL AGGREGATE LIABILITY SHALL
+   NOT EXCEED THE AMOUNT YOU PAID, IF ANY, FOR THE SOFTWARE.
+
+9. GENERAL
+   If any provision of this Agreement is held unenforceable, the remaining
+   provisions remain in full force. This Agreement constitutes the entire
+   agreement between You and the Licensor regarding the Software and supersedes
+   all prior understandings.
+
+For licensing inquiries, contact the Licensor via https://llmlinq.com.
