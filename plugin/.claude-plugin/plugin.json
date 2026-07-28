@@ -1,0 +1,8 @@
+{
+  "name": "llmlinq",
+  "version": "0.1.8",
+  "description": "Capture every Claude Code prompt and response to your own machine, save each session as a resumable transcript, and give Claude searchable access to your own knowledge over MCP.",
+  "author": { "name": "infoinlet", "email": "support@llmlinq.com" },
+  "homepage": "https://llmlinq.com",
+  "license": "SEE LICENSE IN LICENSE"
+}

@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "llmlinq": {
+      "command": "llmlinq",
+      "args": ["mcp"],
+      "description": "Search this machine's LLMLinq knowledge — notes, imported repos and past Claude sessions."
+    }
+  }
+}

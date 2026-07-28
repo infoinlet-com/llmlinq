@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "llmlinq",
+  "description": "LLMLinq — capture every Claude Code prompt and response locally, and give Claude your own knowledge back through MCP.",
+  "owner": {
+    "name": "infoinlet",
+    "email": "support@llmlinq.com"
+  },
+  "plugins": [
+    {
+      "name": "llmlinq",
+      "description": "Capture prompts and responses to your own machine, save every session as a resumable markdown transcript, and let Claude search your knowledge over MCP.",
+      "author": { "name": "infoinlet", "email": "support@llmlinq.com" },
+      "source": "./plugin",
+      "category": "productivity",
+      "homepage": "https://llmlinq.com"
+    }
+  ]
+}
